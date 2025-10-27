@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--# 👋 Hi, I'm Eduardo Toledo  
+
+# 👋 Hi, I'm Eduardo Toledo  
 
 **Machine Learning Scientist** | **Agentic Engineer** | **FinTech AI Innovator**
 
