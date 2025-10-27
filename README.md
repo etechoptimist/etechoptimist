@@ -1,7 +1,4 @@
-
-
-# 👋 Hi, I'm Eduardo Toledo  
-
+![Eduardo Toledo – Machine Learning Scientist & Agentic Engineer](https://raw.githubusercontent.com/etechoptimist/etechoptimist/main/banner.png)
 **Machine Learning Scientist** | **Agentic Engineer** | **FinTech ^ RegTech AI Innovator**
 
 I love turning complex challenges into smart, working AI systems.  
