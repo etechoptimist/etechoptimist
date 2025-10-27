@@ -11,7 +11,7 @@ I focus on **data models that not only predict—but protect.**
 ---
 
 ### 🔍 What I Do
-- Build **end-to-end ML pipelines** making emphasis on Anomalies Detection and Antimoney Laudering
+- Build **end-to-end ML pipelines** making emphasis on Anomalies Detection , Fraud Detection and Antimoney Laudering
 - Develop **agentic architectures** using LangChain, LangGraph, and LLM orchestration  
 - Experiment with **Generative AI** for real-time analytics, monitoring, and automation  
 - Contribute to **open-source** AI and FinTech projects  
@@ -26,7 +26,7 @@ an LLM that represents my curiosity for AI creativity and self-replicating model
 
 ### 🏆 Highlights
 - Active on [Kaggle](https://www.kaggle.com/etechoptimist) and [Zindi](https://zindi.africa/users/etechoptimist) solving real-world data challenges  
-- Active on [HungingFace](https://huggingface.co/etechoptimist)
+- Active on [HuggingFace](https://huggingface.co/etechoptimist)
 - Contributor to open-source projects and holder of the **Arctic Code Vault Badge**  
 - Creator of AI Solutions  for **ATM telemetry**, **AML detection**, and **dynamic pricing**
 
@@ -43,4 +43,4 @@ an LLM that represents my curiosity for AI creativity and self-replicating model
 
 > *“I believe in AI that works with people, not against them — technology that serves fairness, transparency, and purpose.”*
 
-*
+
