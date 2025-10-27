@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eduardo Toledo  
 
-**Machine Learning Scientist** | **Agentic Engineer** | **FinTech AI Innovator**
+**Machine Learning Scientist** | **Agentic Engineer** | **FinTech ^ RegTech AI Innovator**
 
 I love turning complex challenges into smart, working AI systems.  
 My background is rooted in **FinTech** and **Gaming Technology**, where I’ve developed **AI solutions for anomaly detection, fraud prevention, and Anti-Money Laundering (AML)**.  
